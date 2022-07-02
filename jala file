@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <h1>Tourism</h1>
+    <p><b>Plan your trip wherever you want to go.explore new things.</b></p>
+    <i>enjoy the nature and environment</i>
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">super funny
+    </a>
+    <hr/>
+    <ul>
+      <li>Youtube</li>
+      <li>video</li>
+      <li>list</li>
+    </ul>
+    <ol>
+      <li>HTML</li>
+      <li>hyper text</li>
+      <li>markup language</li>
+    </ol>
+    <blockquote>this is a blockquote</blockquote>
+    <div>container element</div>
+    <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tajmahal-img.png"/>
+    
+  </body>
+</html>
